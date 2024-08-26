@@ -98,6 +98,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 vbnet
-Copy code
 
-You can copy and paste this Markdown content directly into your README file. Let me 
