@@ -2,7 +2,7 @@
     "name": "StayingPower",
     "symbol": "SPW",
     "description": "Token representing persistence and dedication",
-    "image": "https://yourdomain.com/token-image.png",
+    "image": "https://raw.githubusercontent.com/Humancyyborg/cortex_model/refs/heads/main/cortex_demo.jpg",
     "external_url": "https://yourwebsite.com",
     "seller_fee_basis_points": 0,
     "attributes": [
@@ -14,7 +14,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://yourdomain.com/token-image.png",
+                "uri": "https://raw.githubusercontent.com/Humancyyborg/cortex_model/refs/heads/main/cortex_demo.jpg",
                 "type": "image/png"
             }
         ],
