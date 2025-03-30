@@ -1,0 +1,23 @@
+{
+    "name": "StayingPower",
+    "symbol": "SPW",
+    "description": "Token representing persistence and dedication",
+    "image": "https://yourdomain.com/token-image.png",
+    "external_url": "https://yourwebsite.com",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+        {
+            "trait_type": "Purpose",
+            "value": "Motivation"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://yourdomain.com/token-image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "utility"
+    }
+}
